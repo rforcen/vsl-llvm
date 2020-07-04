@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>vs/icons/clear.png</file>
+        <file>vs/icons/clipcopy.png</file>
+        <file>vs/icons/clippaste.ico</file>
+        <file>vs/icons/export1.png</file>
+        <file>vs/icons/new.png</file>
+        <file>vs/icons/open.png</file>
+        <file>vs/icons/pause.png</file>
+        <file>vs/icons/play.png</file>
+        <file>vs/icons/rand.png</file>
+        <file>vs/icons/transformation.png</file>
+        <file>vs/icons/save.png</file>
+    </qresource>
+</RCC>
